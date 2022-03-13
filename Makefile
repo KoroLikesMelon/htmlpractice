@@ -1,0 +1,2 @@
+all:
+	firefox list.html
