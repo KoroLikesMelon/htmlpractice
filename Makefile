@@ -1,2 +1,2 @@
 all:
-	firefox list.html
+	firefox index.html
